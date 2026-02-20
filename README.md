@@ -1,13 +1,21 @@
 Kwon, D., Jolly, E., Chang, L., & Shim, W. M. (2026). Neural representations of dynamic social interactions.
 
 System Requirements
+
 OS: Linux (Ubuntu 20.04)
+
 Python: 3.8
+
 Conda: 25.5.1
+
 GPU: NVIDIA GeForce RTX 3090
+
 Driver: 535.230.02
+
 CUDA: 12.2
+
 Installation & Usage
+
 
 1. Create conda environment
 conda env create -f environment.yml
