@@ -18,7 +18,7 @@ Installation & Usage
 
 
 1. Create conda environment
-conda env create -f environment.yml
+```conda env create -f environment.yml```
 
 2. Download required data
 Download the necessary files (~40GB) in this folder
