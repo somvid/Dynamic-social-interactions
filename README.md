@@ -18,13 +18,17 @@ Installation & Usage
 
 
 1. Create conda environment
+
 ```conda env create -f environment.yml```
 
 2. Download required data
-Download the necessary files (~40GB) in this folder
+
+```Download the necessary files (~40GB) in this folder```
 
 3. Setup directories
-Move the Gallant_lab_func and voxelwise_tutorials folders into your project's root directory (where the code is located).
+
+```Move the Gallant_lab_func and voxelwise_tutorials folders into your project's root directory (where the code is located).```
 
 4. Run the analysis codes
-Execute the main script (1.Behavioral_modeling.ipynb ~ 4.Brain_plot.generation.ipynb)
+
+```Execute the main script (1.Behavioral_modeling.ipynb ~ 4.Brain_plot.generation.ipynb)```
